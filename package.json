@@ -1,0 +1,9 @@
+{
+  "name": "node-cookbook",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:eviccari/node-cookbook.git",
+  "author": "Eduardo Viccari <eduardo.viccari@outlook.com>",
+  "license": "MIT",
+  "private": false
+}
